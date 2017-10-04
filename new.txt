@@ -1,0 +1,15 @@
+写一下git常用的命令吧
+mkgir test
+git init
+git status
+git cdd .
+git commit -m ""
+git rm 文件
+git mv 移动改名字
+touch 新建文件
+ls
+git remote add origin http:// 
+push origin master
+git log <file>
+git --hard head 版本号
+

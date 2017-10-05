@@ -1,15 +1,34 @@
-写一下git常用的命令吧
-mkgir test
+﻿写一下git常用的命令吧
+
+mkdir test
+
 git init
+
 git status
+
 git cdd .
+
 git commit -m ""
+
 git rm 文件
+
 git mv 移动改名字
+
 touch 新建文件
+
 ls
+
 git remote add origin http:// 
 push origin master
+
+git push origin master
 git log <file>
+
 git --hard head 版本号
 
+
+//建立分支
+git branch
+git branch (banbenhao)
+git checkout (版本号)
+git merge （版本号）
